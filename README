@@ -1,0 +1,20 @@
+English Version at the bottom.
+
+Lo scopo di Car Detector è quello di fornire uno strumento che permetta di fotografare 
+un’auto e riconoscerne marca e modello (tra i 23 attualmente presenti nel prototipo), ed 
+eventualmente consultare quelli già scannerizzati in precedenza. L’applicazione è 
+suddivisa quindi in tre sezioni, o fragment, direttamente accessibili dall’utente tramite una 
+barra di navigazione nella parte inferiore dello schermo.
+
+Il modello allenato è di Image Classification sul framework Tensorflow 2.0 e basato su un Convolutional Neural Network.
+Il data set utilizzato è stato realizzato da Nicolas Gervais (https://github.com/nicolas-gervais).
+
+
+
+The objective of Car Detector is to grant a tool able to capture a pic of a car and recognize its model
+and maker (among the 23 present in this prototype), and consult those already scanned. The application is 
+divided in three sections, or fragment, directly accessibile by the user through a navigation bar at the bottom of
+the screen.
+
+The trained model is Image Classification on the Tensorflow 2.0 framework, based on a CNN.
+The dataset is has been realized by Nicolas Gervais (https://github.com/nicolas-gervais).
